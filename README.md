@@ -21,6 +21,7 @@ Once fully installed, simply extract all of the downloaded files into your **Bep
 * Custom unlock triggers for salts.
 * A salt merchant to buy and sell from.
 * Salts with secondary abilities.
+* Unique salts that modify the path in exciting ways.
 * And many more!
 
 ## Known Issues:
