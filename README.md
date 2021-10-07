@@ -26,7 +26,7 @@ Once fully installed, simply extract all of the downloaded files into your **Bep
 
 ## Known Issues:
 
-* On the left hand side of the recipe book, salts will display as Moon Salt.
+* On the left hand side of the recipe book, custom salts will display as Moon Salt.
 * Salt amount text is white and does not appear until the Salt has been used after dragging it out of the inventory.
 * Some salts missing tool tips.
 
