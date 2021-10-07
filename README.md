@@ -7,6 +7,8 @@
  
 ## Installation:
 
+The latest release can be found on the releases tab to the right.
+
 This mod requires [BepInEx 5](https://github.com/BepInEx/BepInEx/releases). Look [here](https://docs.bepinex.dev/master/articles/user_guide/installation/unity_mono.html) for a guide on how to install it.
 
 Once fully installed, simply extract all of the downloaded files into your **BepInEx/plugins** folder.
