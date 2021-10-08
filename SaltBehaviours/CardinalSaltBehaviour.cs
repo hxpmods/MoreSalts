@@ -22,7 +22,7 @@ namespace MoreSalts
 
         public override void OnCauldronDissolve()
         {
-            MoreSalts.moveToCardinalsBySalt += dir * rate;
+           SaltHelper.moveToCardinalsBySalt += dir * rate;
         }
     }
 }

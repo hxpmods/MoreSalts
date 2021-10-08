@@ -12,7 +12,7 @@ namespace MoreSalts
         float distanceToCoverOnDissolve = 0.05f;
         public override void OnCauldronDissolve()
         {
-            MoreSalts.moveToNearestExperienceBySalt += distanceToCoverOnDissolve;
+            SaltHelper.moveToNearestExperienceBySalt += distanceToCoverOnDissolve;
         }
     }
 }
