@@ -1,0 +1,18 @@
+{
+"name": "Gaia Salt",
+"description": "Gaia Salt description.",
+"pileColor": {"color":"#AAFFAA"},
+"particleColor": {"color":"#AAFFAA"},
+
+"boxBottomPath" : "Gaia Salt Box Bottom.png",
+"boxTopPath" : "Gaia Salt Box Top.png",
+"recipeMarkIconPath": "Gaia Salt Recipe Mark.png",
+
+
+"behavior": 
+	{
+		"$type": "MoreSalts.CardinalSaltBehaviour, MoreSalts",
+		"_dir": {"x" : 0, "y" :1},
+		"_rate": 1,
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"Name": "Levitas Recipe",
+	"description": "For those who seek the secrets beyond the flames.",
+	"knownAtStart": true,
+	"unlockedByDefault": true,
+
+	"recipeIconPath": "Levitas Salt Recipe Icon.png",
+	"recipeBookmarkPath": "Levitas Salt Recipe Bookmark.png",
+
+	"slots": {
+		"rightFurnace": "Windbloom",
+		"doubleVessel": ["Fly", "Fly", "Fly", "Bounce", "Bounce"],
+		"rightRetort": ["Mana", "Mana", "Hallucinations", "Hallucinations"],
+		"triangularVessel": ["Growth", "Growth", "Crop", "Crop", "Mana"],
+		"rightDripper": ["Healing", "Healing", "Healing", "Libido", "Charm"],
+		"rhombusVessel": ["Lightning", "Lightning", "Lightning", "Light", "Hallucinations"],
+	},
+
+	"result": "Levitas Salt",
+	"amount": 1000,
+	"usePotionColors": false,
+	"colors": [{"color":"#86de1b"}, {"color":"#d9eb3b"}, {"color":"#ffef0a"}],
+
+}

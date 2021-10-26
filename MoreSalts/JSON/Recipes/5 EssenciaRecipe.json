@@ -1,0 +1,29 @@
+{
+	"Name": "Essencia Recipe",
+	"description": "The journey is as important as the destination",
+	"knownAtStart": true,
+	"unlockedByDefault": true,
+
+	"recipeIconPath": "E Salt Recipe Icon.png",
+	"recipeBookmarkPath": "E Salt Recipe Bookmark.png",
+
+	"slots": {
+		"leftFurnace": "Goldthorn",
+		"rightFurnace": "Albedo",
+		"doubleVessel": ["Healing", "Mana", "Light", "StoneSkin", "Acid"],
+		"rightRetort": ["Hallucinations", "Hallucinations", "Hallucinations", "Libido", "Libido"],
+		"triangularVessel": ["Fire", "Light", "Explosion", "Mana", "Mana"],
+		"rightDripper": ["Necromancy", "Necromancy", "Necromancy", "Libido", "Charm"],
+		"rhombusVessel": ["Healing", "Healing", "Healing", "Libido", "Charm"],
+		"leftRetort": ["Berserker", "Berserker", "Berserker", "Healing", "Healing"],
+		"spiralVessel": ["Mana", "Mana", "Hallucinations", "Hallucinations"],
+		"leftDripper": ["Necromancy", "Necromancy", "StoneSkin", "Poison", "Acid"],
+		"floorVessel": ["SharpVision", "Invisibility", "SlowDown", "Sleep", "Mana"]
+	},
+
+	"result": "Essencia Salt",
+	"amount": 500,
+	"usePotionColors": false,
+	"colors": [{"color":"#86de1b"}, {"color":"#d9eb3b"}, {"color":"#86de1b"},{"color":"#ffef0a"}],
+
+}

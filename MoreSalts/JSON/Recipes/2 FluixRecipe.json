@@ -1,0 +1,24 @@
+{
+	"Name": "Fluix Recipe",
+	"description": "For those who seek the secrets beyond the flames.",
+	"knownAtStart": true,
+	"unlockedByDefault": true,
+
+	"recipeIconPath": "Fluix Salt Recipe Icon.png",
+	"recipeBookmarkPath": "Fluix Salt Recipe Bookmark.png",
+
+	"slots": {
+		"rightFurnace": "Waterbloom",
+		"doubleVessel": ["SharpVision", "SharpVision", "SharpVision", "Hallucinations", "Mana"],
+		"rightRetort": ["Mana", "Mana", "Hallucinations", "Hallucinations"],
+		"triangularVessel": ["Growth", "Growth", "Crop", "Crop", "Mana"],
+		"rightDripper": ["Necromancy", "Necromancy", "Necromancy", "Libido", "Charm"],
+		"rhombusVessel": ["Invisibility", "Invisibility", "Invisibility", "Frost", "Frost"],
+	},
+
+	"result": "Fluix Salt",
+	"amount": 1000,
+	"usePotionColors": false,
+	"colors": [{"color":"#86de1b"}, {"color":"#d9eb3b"}, {"color":"#ffef0a"}],
+
+}

@@ -1,0 +1,16 @@
+{
+"name": "Essencia Salt",
+"description": "Exotic aromas and secret scents waft from this salt. Just don't inhale too vigorously.",
+"pileColor": {"color":"#AAFFAA"},
+"particleColor": {"color":"#AAFFAA"},
+
+"boxBottomPath" : "E Salt Box Bottom.png",
+"boxTopPath" : "E Salt Box Top.png",
+"tooltipIconPath": "E Salt Tooltip Icon.png",
+
+
+"behavior": 
+	{
+		"$type": "MoreSalts.ExperienceSaltBehaviour, MoreSalts",
+	}
+}

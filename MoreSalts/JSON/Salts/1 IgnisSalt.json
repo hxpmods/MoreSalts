@@ -1,0 +1,20 @@
+{
+"name": "Ignis Salt",
+"description": "This fine powder is hot to the touch but will never burn.",
+"pileColor": {"color":"#FF0000"},
+"particleColor": {"color":"#FF0000"},
+
+"boxBottomPath" : "Ignis Salt Box Bottom.png",
+"boxTopPath" : "Ignis Salt Box Top.png",
+"tooltipIconPath": "Ignis Salt Tooltip Icon.png",
+"recipeMarkIconPath": "Ignis Salt Recipe Mark.png",
+
+
+
+"behavior": 
+	{
+		"$type": "MoreSalts.CardinalSaltBehaviour, MoreSalts",
+		"_dir": {"x" : -1, "y" :0},
+		"_rate": 1,
+	}
+}

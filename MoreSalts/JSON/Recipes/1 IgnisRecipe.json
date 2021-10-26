@@ -1,0 +1,24 @@
+{
+	"Name": "Ignis Recipe",
+	"description": "For those who seek the secrets beyond the flames.",
+	"knownAtStart": true,
+	"unlockedByDefault": true,
+
+	"recipeIconPath": "Ignis Salt Recipe Icon.png",
+	"recipeBookmarkPath": "Ignis Salt Recipe Bookmark.png",
+
+	"slots": {
+		"rightFurnace": "Firebell",
+		"doubleVessel": ["Fire", "Fire", "Fire", "Explosion", "Explosion"],
+		"rightRetort": ["Mana", "Mana", "Hallucinations", "Hallucinations"],
+		"triangularVessel": ["Growth", "Growth", "Crop", "Crop", "Mana"],
+		"rightDripper": ["Healing", "Healing", "Healing", "Libido", "Charm"],
+		"rhombusVessel": ["Light", "Light", "Light", "Fire", "Fire"],
+	},
+
+	"result": "Ignis Salt",
+	"amount": 1000,
+	"usePotionColors": false,
+	"colors": [{"color":"#86de1b"}, {"color":"#d9eb3b"}, {"color":"#ffef0a"}],
+
+}
